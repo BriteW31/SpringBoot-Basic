@@ -1,0 +1,19 @@
+Main structure of the Files:
+
+demo
+|
+|------src
+          |
+          |------main
+                     |
+                     |------java
+                                |
+                                |------com
+                                          |
+                                          |------demo
+                                                     |
+                                                     |------demo
+                                                                |
+                                                                |------DemoApplication.java
+                                                                       DemoController.java
+|------pom.xml
